@@ -19,3 +19,22 @@ P = pattern recongnition As much as possible
 
 Current Stage
 I and R same time  
+
+
+DSA I need to learn 
+[x] Array
+[x] Link List
+[x] Stack
+[x] Queue
+[] trees
+[] Heap or Priority Queue
+[] graph
+[] hashp maps
+
+Algorithms I need to learn 
+[x] quick sort
+[] Selection Sort 
+[] Merge Sort 
+[] Binary Search Tree
+[] DFS -> stack
+[] BFS -> queue
