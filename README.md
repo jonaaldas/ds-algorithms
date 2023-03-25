@@ -26,7 +26,7 @@ DSA I need to learn
 [x] Link List
 [x] Stack
 [x] Queue
-[] trees
+[x] trees
 [] Heap or Priority Queue
 [] graph
 [] hashp maps
@@ -35,6 +35,6 @@ Algorithms I need to learn
 [x] quick sort
 [] Selection Sort 
 [] Merge Sort 
-[] Binary Search Tree
+[x] Binary Search Tree
 [] DFS -> stack
 [] BFS -> queue
